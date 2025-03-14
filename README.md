@@ -14,7 +14,15 @@
 
 ###
 
-<h2 align="left">Mostly I Work With DBT Plus These Other Tools 👇</h2>
+<h2 align="left">Skills:</h2>
+
+###
+
+<p align="left">Version Control & Collaboration: Git, Github, GithubDesktop, GitLens, Meld<br><br>Statistical Tools: R Programming, Jamovi, IBM SPSS & Excel<br><br>Data Modelling: DBT, Power Query, Power Pivot<br><br>SQL & Databases: MySQL, Postgres, Snowflake <br><br>Data Visualization: PowerBi, Apache Superset</p>
+
+###
+
+<h2 align="left">Mostly I Work With 👇</h2>
 
 ###
 

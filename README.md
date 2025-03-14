@@ -18,31 +18,9 @@
 
 ###
 
-<p align="left">Version Control & Collaboration: Git, Github, GithubDesktop, GitLens, Meld<br><br>Statistical Tools: R Programming, Jamovi, IBM SPSS & Excel<br><br>Data Modelling: DBT, Power Query, Power Pivot<br><br>SQL & Databases: MySQL, Postgres, Snowflake <br><br>Data Visualization: PowerBi, Apache Superset</p>
+<p align="left">Version Control & Collaboration: Git, Github, GithubDesktop, GitLens, Meld<br><br>Statistics & Programming: Python, R Programming, Jamovi, IBM SPSS & Excel<br><br>Data Modelling: DBT, Power Query, Power Pivot<br><br>SQL & Databases: MySQL, Postgres, Snowflake <br><br>Data Visualization: PowerBi, Apache Superset</p>
 
-###
 
-<h2 align="left">Mostly I Work With 👇</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-</div>
-
-###
 
 ## 🌐 Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brianotieno-analyticsengineer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bri.otieno5@gmail.com) 

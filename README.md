@@ -1,8 +1,6 @@
-<h1 align="left">Hey👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Brian Otieno and I'm an Analytics Engineer, from Nairobi, Kenya.</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Brian+Otieno+from+Kenya!;" />
+</h1>
 
 ###
 
@@ -10,7 +8,7 @@
 
 ###
 
-<p align="left">💼 I'm Analytics Engineer at PlantVillage+ Kenya since 2024.<br><br>🏆 In 2019, Won a research grant (by The MasterCard Foundation)<br> To discover why 70%+ Molo sub-county small-scale farmers utilize Local seed potatoes instead of Certified seed potatoes.<br><br>📚 Currently interested in Analytics Engineering, Philosophy and Nature Parks<br><br>▶️ And I play Chess♟️, Ludo🎲 and FIFA🎮</p>
+<p align="left">💼 I'm Analytics Engineer at PlantVillage+ Kenya since March 2024.<br><br>🏆 In 2019, Won a research grant (by The MasterCard Foundation)<br> To discover why 70%+ Molo sub-county small-scale farmers utilize Local seed potatoes instead of Certified seed potatoes.<br><br>📚 Currently interested in Analytics Engineering, Philosophy and Nature Parks<br><br>▶️ And I play Chess♟️, Ludo🎲 and FIFA🎮</p>
 
 ###
 

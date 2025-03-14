@@ -26,8 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brianotieno-analyticsengineer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bri.otieno5@gmail.com) 
 
 # 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pvbrian&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=pvbrian&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pvbrian&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=pvbrian&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pvbrian&theme=radical&no-frame=false&no-bg=true&margin-w=4)

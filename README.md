@@ -19,7 +19,7 @@
 ###
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">- Version Control & Collaboration: Git, Github, GithubDesktop, GitLens, Meld<br><br>- Statistics & Programming: Python, R Programming, Jamovi, IBM SPSS & Excel<br><br>- Data Modelling: DBT, Power Query, Power Pivot<br><br>- SQL & Databases: MySQL, Postgres, Snowflake <br><br>- Data Visualization: PowerBi, Apache Superset</p>
+<p align="left"> - Version Control & Collaboration: Git, Github, GithubDesktop, GitLens, Meld<br><br> - Statistics & Programming: Python, R Programming, Jamovi, IBM SPSS & Excel<br><br> - Data Modelling: DBT, Power Query, Power Pivot<br><br> - SQL & Databases: MySQL, Postgres, Snowflake <br><br> - Data Visualization: PowerBi, Apache Superset</p>
 
 
 
